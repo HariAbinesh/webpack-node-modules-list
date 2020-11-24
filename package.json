@@ -1,14 +1,14 @@
 {
   "name": "webpack-node-modules-list",
-  "version": "0.4.1",
+  "version": "1.0.0",
   "description": "Exports meta data of all used node modules of a webpack bundle to a file.",
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/ubilabs/webpack-node-modules-list/issues"
+    "url": "https://github.com/HariAbinesh/webpack-node-modules-list/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:ubilabs/webpack-node-modules-list.git"
+    "url": "https://github.com/HariAbinesh/webpack-node-modules-list.git"
   },
   "scripts": {
     "test": "npm test"
@@ -16,12 +16,12 @@
   "keywords": [
     "webpack",
     "node",
-    "npm"
+    "npm",
+    "node modules version"
   ],
   "author": {
-    "email": "mecklenburg@ubilabs.net",
-    "name": "Frank Mecklenburg",
-    "url": "http://ubilabs.net"
+    "email": "hariabinesh@gmail.com",
+    "name": "Hari Abinesh"
   },
   "license": "MIT"
 }

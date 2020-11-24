@@ -1,5 +1,7 @@
 # Node Modules List Webpack Plugin
 
+Its compatible with webpack 5.
+
 [![npm version](https://badge.fury.io/js/webpack-node-modules-list.svg)](https://badge.fury.io/js/webpack-node-modules-list)
 
 Exports metadata of all used node modules of a webpack bundle to a file.
